@@ -1,5 +1,13 @@
 # 💫 About Me:
-<br>* Desarrollo web front-end y back-end.<br>* Creación de experiencias digitales excepcionales.<br>* Desarrollo de aplicaciones web atractivas, intuitivas y altamente funcionales.<br>* Especialización en tecnologías web como HTML, CSS, JavaScript, React y Node.js.<br>* Mantenimiento de código limpio, modular y optimizado.<br>* Enfoque en el rendimiento óptimo de las aplicaciones web.<br>* Soluciones creativas para desafíos del mundo real.<br>* Énfasis en la usabilidad y accesibilidad.<br>* Aprendizaje constante de nuevas tecnologías.<br>* Colaboración en proyectos innovadores.
+<br> * Front-end and back-end web development expertise, crafting digital experiences that transcend the ordinary.
+<br> * Mastery in creating captivating, intuitive, and highly functional web applications.
+<br> * Specialization in cutting-edge web technologies like HTML, CSS, JavaScript, React, and Node.js.
+<br> * Unwavering commitment to maintaining immaculate, modular, and optimized code.
+<br> * Obsession with achieving peak performance for web applications, leaving no room for mediocrity.
+<br> * Ingenious problem-solving, providing creative solutions for real-world challenges that defy convention.
+<br> * Unwavering focus on user-centered design, making web products seamlessly usable and accessible to all.
+<br> * Relentless pursuit of knowledge, consistently embracing and mastering new technologies.
+<br> Collaboration in groundbreaking, visionary projects that redefine the boundaries of innovation.
 
 
 ## 🌐 Socials:
