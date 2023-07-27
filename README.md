@@ -1,5 +1,6 @@
 # 💫 About Me:
-<br> * Front-end and back-end web development expertise, crafting digital experiences that transcend the ordinary.
+<br>![20230727080711_ fpdl in _right-icon-isolated-blue-3d-render_740533-223_normal](https://github.com/Global-Manu-Man/Global-Manu-Man/assets/84020431/b67e842e-c7f6-4dde-a2d5-12af256f9ab6)
+  Front-end and back-end web development expertise, crafting digital experiences that transcend the ordinary.
 <br> * Mastery in creating captivating, intuitive, and highly functional web applications.
 <br> * Specialization in cutting-edge web technologies like HTML, CSS, JavaScript, React, and Node.js.
 <br> * Unwavering commitment to maintaining immaculate, modular, and optimized code.
